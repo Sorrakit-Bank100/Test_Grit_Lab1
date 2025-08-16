@@ -1,2 +1,3 @@
 # Test_Grit_Lab1
-For fun
+For learning and playing Eldenring 2 
+
